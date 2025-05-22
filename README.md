@@ -48,4 +48,9 @@ A lightweight, browser-based tool built with **Streamlit** that lets us upload m
 
   streamlit run app.py
 
+## Demo
+
+[Demo](./demo.mp4)
+
+
   
