@@ -31,26 +31,25 @@ A lightweight, browser-based tool built with **Streamlit** that lets us upload m
 ## Installation
 
 ### 1. Clone the Repository
-
-  git clone https://github.com/your-username/pdf-ocr-streamlit.git
-  cd pdf-ocr-streamlit
+    git clone https://github.com/your-username/pdf-ocr-streamlit.git
+    cd pdf-ocr-streamlit
 
 ### 2. Create Virtual Environment
 
-  python -m venv venv
-  venv\Scripts\activate 
+    python -m venv venv
+    venv\Scripts\activate 
 
 ### 3. Install dependencies
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### 4. Run the command 
 
-  streamlit run app.py
+    streamlit run app.py
 
 ## Demo
 
-[Demo](./demo.mp4)
+  [Demo](./demo.gif)
 
 
   
