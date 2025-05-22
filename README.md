@@ -49,7 +49,7 @@ A lightweight, browser-based tool built with **Streamlit** that lets us upload m
 
 ## Demo
 
-  [Demo](./demo.gif)
+  [Demo](demo.gif)
 
 
   
