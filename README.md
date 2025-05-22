@@ -49,7 +49,7 @@ A lightweight, browser-based tool built with **Streamlit** that lets us upload m
 
 ## Demo
 
-  ![Demo]((https://raw.githubusercontent.com/himanshisharmaa/OCR-PDF/main/demo.gif))
+  ![Demo](https://raw.githubusercontent.com/himanshisharmaa/OCR-PDF/main/demo.gif)
 
 
   
